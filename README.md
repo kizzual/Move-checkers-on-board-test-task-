@@ -7,6 +7,10 @@ In the assembly for android
 Make a chess board with the ability to move checkers between cells, randomly without rules
 
 
+
+
+
+
 Тестовое задание на собеседование: 
 
 Делать в версии 2021.3.21f1
